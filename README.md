@@ -33,15 +33,15 @@ DB PlayStation Game adalah usaha yang menyediakan konsol PlayStation dan permain
   --------------------------
 ## Use Case, ERD, Class Diagram, dan Wireframe
 ### Use Case :
-[Klik Untuk Melihat Use Case Kami](https://drive.google.com/file/d/15guoEP7TD1xWnitlmD1iwzedPR-3YMXf/view?usp=sharing)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/angelinasbln/UTS-APBO/blob/main/USE%20CASE.png)
 
 --------------------------- 
 ### ERD (Entity Relationship Diagram) :
-[Klik Untuk Melihat ERD Kami](https://drive.google.com/file/d/1gHdmbnR-NnBTlzd2ooCjugtJGjnJ_A9M/view?usp=drive_link)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/angelinasbln/UTS-APBO/blob/main/image.png)
 
 ---------------------------
 ### Class Diagram :
-[Klik Untuk Melihat Class Diagram Kami](https://drive.google.com/file/d/1-jlKY4sKDqYwC-vbJU2R96h0Kb3dNSJe/view?usp=sharing)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/angelinasbln/UTS-APBO/blob/main/Class%20Diagram%20APBO.png)
 
 ---------------------------
 ### Wireframe :
