@@ -44,6 +44,14 @@ DB PlayStation Game adalah usaha yang menyediakan konsol PlayStation dan permain
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/angelinasbln/UTS-APBO/blob/main/Class%20Diagram%20APBO.png)
 
 ---------------------------
+
+--------------------------------
+### Sequence Diagram
+------------------------------
+
+--------------------------------
+### Activity diagram
+------------------------------
 ### Wireframe :
 [Klik Untuk Melihat Wireframe Kami](https://www.figma.com/file/uJCEwHUTWPHJp8f2stBqsr/Untitled?type=design&node-id=0%3A1&mode=design&t=B25hBci3Lp7d12nD-1)
 
