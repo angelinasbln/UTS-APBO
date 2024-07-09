@@ -47,7 +47,7 @@ DB PlayStation Game adalah usaha yang menyediakan konsol PlayStation dan permain
 
 --------------------------------
 ### Sequence Diagram
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]()
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/angelinasbln/UTS-APBO/blob/main/Sequence%20Diagram.png)
 ------------------------------
 
 --------------------------------
